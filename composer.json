@@ -1,8 +1,8 @@
 {
-    "name": "kenven/DateTool",
+    "name": "kenven/date-tool",
     "description": "php友好显示时间类",
     "keywords": ["psr", "psr-3", "time"],
-    "homepage": "https://github.com/boorLK/DateTool.git",
+    "homepage": "https://github.com/boorLK/date-tool.git",
     "license": "MIT",
     "authors": [
         {
