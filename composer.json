@@ -1,0 +1,31 @@
+{
+    "name": "kenven/DateTool",
+    "description": "php友好显示时间类",
+    "keywords": ["psr", "psr-3", "time"],
+    "homepage": "https://github.com/boorLK/DateTool.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kenven",
+            "homepage": "https://github.com/boorLK"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "kenven\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "kenven\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "kenven\\": "src/"
+        }
+    }
+}
