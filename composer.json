@@ -22,10 +22,5 @@
         "psr-4": {
             "kenven\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "kenven\\": "src/"
-        }
     }
 }
