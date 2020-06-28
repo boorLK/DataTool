@@ -7,7 +7,7 @@ namespace kenven;
  * Class DateTools
  */
 
-class DateTool{
+class date_tool{
 
     /**
      * @desc 得到某天凌晨零点的时间戳
